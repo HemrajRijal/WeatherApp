@@ -1,3 +1,3 @@
 # WeatherApp
 
-####The weather app build using vanilla JavaScript
+### The weather app build using vanilla JavaScript
